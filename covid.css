@@ -1,0 +1,9 @@
+table {
+    border: 10px solid;
+  }
+  tr:hover {background-color: rgb(12, 244, 12);}
+  
+  /* th {
+    background-color: #20ef15;
+    color: rgb(3, 4, 10);
+  } */
